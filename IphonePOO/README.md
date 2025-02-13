@@ -21,29 +21,6 @@ Este projeto é uma implementação em Java da modelagem de um componente **iPho
    - `adicionarNovaAba()` - Adiciona uma nova aba no navegador.
    - `atualizarPagina()` - Atualiza a página atual.
 
----
-
-## 📁 Estrutura do Projeto
-
-* iPhonePOO/ 
-* ├── src/ │ 
-* ├── App.java 
-  
-## Classe principal para testar as funcionalidades 
-* │ ├── iPhone.java 
-  
-## Implementação da classe iPhone 
-* │ ├── ReprodutorMusical.java 
-  
-## Interface para o Reprodutor Musical 
-* │ ├── AparelhoTelefonico.java 
-* 
-## Interface para o Aparelho Telefônico 
-* │ └── NavegadorInternet.java 
-
-## Interface para o Navegador na Internet 
-* └── README.md
-  
 
 ---
 
@@ -57,7 +34,8 @@ Este projeto é uma implementação em Java da modelagem de um componente **iPho
 
 ## 📝 Diagrama UML
 
-O diagrama UML foi elaborado para representar as relações de implementação entre as interfaces e a classe `iPhone`. Para visualizar o diagrama, acesse a pasta onde ele está salvo ou utilize uma ferramenta como o **Draw.io**.
+O diagrama UML foi elaborado para representar as relações de implementação entre as interfaces e a classe `iPhone`. 
+![image](https://github.com/user-attachments/assets/b7a3a95a-e8d8-44cc-98d7-d529e0175a25)
 
 ---
 
