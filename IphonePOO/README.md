@@ -47,6 +47,6 @@ O diagrama UML foi elaborado para representar as relações de implementação e
    cd iPhonePOO/src
    ```
 ## 📚 Desafio
-### Este projeto faz parte de um desafio proposto pela Digital Innovation One (DIO), onde o objetivo é aplicar conceitos de POO na modelagem de um iPhone com funcionalidades específicas, conforme demonstrado no lançamento do iPhone em 2007.
+### Este projeto faz parte de um desafio proposto pela Digital Innovation One (DIO), onde o objetivo é aplicar conceitos de POO na modelagem de um iPhone com funcionalidades específicas, conforme demonstrado no lançamento do iPhone em 2007...
 
 
